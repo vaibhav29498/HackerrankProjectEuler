@@ -20,7 +20,7 @@
 
 <a name="improving"></a>
 
-## Improving a Dish
+## Improving/Optimising a Code
 
 * If you feel you can improve upon any previously added code, feel free to open an issue discussing the improvements.
 * The points to be considered for improvement will be the time required by code to pass testcases, easy explanation, etc.
