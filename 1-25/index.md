@@ -1,10 +1,10 @@
 ## Index of problems 1-25
 
-##### Here in this Table [![image](../img/HR.png)(#)] links to solution link on Hackerrank and [![image](../img/GH.png)](#) links to solution on this repository.
+##### Here in this Table [![image](../img/HR.png)](#) links to solution link on Hackerrank and [![image](../img/GH.png)](#) links to solution on this repository.
 
 | Problem | C | C++ | Python |
 | :-----: | :-----: | :-----: | :-----: |
-| [001](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | | | |
+| [001](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | | [![image](../img/GH.png)](../001.cpp)  [![image](../img/HR.png)]() (100 pts) [![image](../img/AC.png)](#) | |
 | [002](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | | | |
 | [003](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | | | |
 | [004](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) | | | |
