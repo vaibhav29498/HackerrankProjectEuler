@@ -7,14 +7,14 @@
 | [001](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | | [![image](../img/GH.png)](../1-25/001.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/submissions/code/1300482646) (100 pts) [![image](../img/AC.png)](#) | |
 | [002](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | | [![image](../img/GH.png)](../1-25/002.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/submissions/code/1300919731) (100 pts) [![image](../img/AC.png)](#) | |
 | [003](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | | [![image](../img/GH.png)](../1-25/003.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/submissions/code/1301000467) (100 pts) [![image](../img/AC.png)](#) | |
-| [004](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) | | | |
-| [005](https://www.hackerrank.com/contests/projecteuler/challenges/euler005) | | | |
-| [006](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) | | | |
-| [007](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) | | | |
-| [008](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) | | | |
-| [009](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) | | | |
-| [010](https://www.hackerrank.com/contests/projecteuler/challenges/euler010) | | | |
-| [011](https://www.hackerrank.com/contests/projecteuler/challenges/euler011) | | | |
+| [004](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) | | [![image](../img/GH.png)](../1-25/004.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler004/submissions/code/7374534) (100 pts) [![image](../img/AC.png)](#) | |
+| [005](https://www.hackerrank.com/contests/projecteuler/challenges/euler005) | | [![image](../img/GH.png)](../1-25/005.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/submissions/code/7540452) (100 pts) [![image](../img/AC.png)](#) | |
+| [006](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) | | [![image](../img/GH.png)](../1-25/006.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/submissions/code/7540681) (100 pts) [![image](../img/AC.png)](#) | |
+| [007](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) | | [![image](../img/GH.png)](../1-25/007.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/submissions/code/7544419) (100 pts) [![image](../img/AC.png)](#) | |
+| [008](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) | | [![image](../img/GH.png)](../1-25/008.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/submissions/code/7544520) (100 pts) [![image](../img/AC.png)](#) | |
+| [009](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) | | [![image](../img/GH.png)](../1-25/009.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/submissions/code/7562014) (100 pts) [![image](../img/AC.png)](#) | |
+| [010](https://www.hackerrank.com/contests/projecteuler/challenges/euler010) | | [![image](../img/GH.png)](../1-25/010.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/submissions/code/7588582) (100 pts) [![image](../img/AC.png)](#) | |
+| [011](https://www.hackerrank.com/contests/projecteuler/challenges/euler011) | | [![image](../img/GH.png)](../1-25/011.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/submissions/code/7700954) (100 pts) [![image](../img/AC.png)](#) | |
 | [012](https://www.hackerrank.com/contests/projecteuler/challenges/euler012) | | | |
 | [013](https://www.hackerrank.com/contests/projecteuler/challenges/euler013) | | | |
 | [014](https://www.hackerrank.com/contests/projecteuler/challenges/euler014) | | | |
