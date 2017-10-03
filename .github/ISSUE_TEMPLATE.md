@@ -1,6 +1,7 @@
 #### This issue is about [Problem No] (link to the Hackerrank Euler Problem).
 
 - [ ] Issue Title is in form `Problem Number [Language]`.
+- [ ] Language is either of C,C++,Python (IMPORTANT)
 - [ ] I searched or browsed the repo’s other issues to ensure this is not a duplicate.
 - [ ] I got AC for this problem on Hackerrank.
 - [ ] I have checked that my solution is passing on Problem (in case you make some changes).
