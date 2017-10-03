@@ -5,8 +5,8 @@
 | Problem | C | C++ | Python |
 | :-----: | :-----: | :-----: | :-----: |
 | [001](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | | [![image](../img/GH.png)](../001.cpp)  [![image](../img/HR.png)]() (100 pts) [![image](../img/AC.png)](#) | |
-| [002](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | | | |
-| [003](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | | | |
+| [002](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | | [![image](../img/GH.png)](../002.cpp)  [![image](../img/HR.png)]() (100 pts) [![image](../img/AC.png)](#) | |
+| [003](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | | [![image](../img/GH.png)](../003.cpp)  [![image](../img/HR.png)]() (100 pts) [![image](../img/AC.png)](#) | |
 | [004](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) | | | |
 | [005](https://www.hackerrank.com/contests/projecteuler/challenges/euler005) | | | |
 | [006](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) | | | |
