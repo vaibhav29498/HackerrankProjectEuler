@@ -3,6 +3,7 @@
 - [ ] Issue Title is in form `Problem Number [Language]`.
 - [ ] Language is either of C,C++,Python (IMPORTANT)
 - [ ] I searched or browsed the repo’s other issues to ensure this is not a duplicate.
+- [ ] A solution is already present on the repo but my solution is better. (Please explain how your solution performs better)
 - [ ] I got AC for this problem on Hackerrank.
 - [ ] I have checked that my solution is passing on Problem (in case you make some changes).
 - [ ] Assign this issue to me (I want to work on this).
