@@ -4,9 +4,9 @@
 
 | Problem | C | C++ | Python |
 | :-----: | :-----: | :-----: | :-----: |
-| [001](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | | [![image](../img/GH.png)](../001.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/submissions/code/1300482646) (100 pts) [![image](../img/AC.png)](#) | |
-| [002](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | | [![image](../img/GH.png)](../002.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/submissions/code/1300919731) (100 pts) [![image](../img/AC.png)](#) | |
-| [003](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | | [![image](../img/GH.png)](../003.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/submissions/code/1301000467) (100 pts) [![image](../img/AC.png)](#) | |
+| [001](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | | [![image](../img/GH.png)](../1-25/001.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/submissions/code/1300482646) (100 pts) [![image](../img/AC.png)](#) | |
+| [002](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | | [![image](../img/GH.png)](../1-25/002.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/submissions/code/1300919731) (100 pts) [![image](../img/AC.png)](#) | |
+| [003](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | | [![image](../img/GH.png)](../1-25/003.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/submissions/code/1301000467) (100 pts) [![image](../img/AC.png)](#) | |
 | [004](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) | | | |
 | [005](https://www.hackerrank.com/contests/projecteuler/challenges/euler005) | | | |
 | [006](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) | | | |
