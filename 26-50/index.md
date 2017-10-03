@@ -4,7 +4,7 @@
 
 | Problem | C | C++ | Python |
 | :-----: | :-----: | :-----: | :-----: |
-| [026](https://www.hackerrank.com/contests/projecteuler/challenges/euler026) | | s[![image](../img/GH.png)](../026.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler026/submissions/code/1300487281) (100 pts) [![image](../img/AC.png)](#) | |
+| [026](https://www.hackerrank.com/contests/projecteuler/challenges/euler026) | | [![image](../img/GH.png)](../026.cpp)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler026/submissions/code/1300487281) (100 pts) [![image](../img/AC.png)](#) | |
 | [027](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | | | |
 | [028](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | | | |
 | [029](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) | | | |
