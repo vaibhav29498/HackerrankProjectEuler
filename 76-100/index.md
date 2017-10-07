@@ -24,7 +24,7 @@
 | [093](https://www.hackerrank.com/contests/projecteuler/challenges/euler093) | | | |
 | [094](https://www.hackerrank.com/contests/projecteuler/challenges/euler094) | | | |
 | [095](https://www.hackerrank.com/contests/projecteuler/challenges/euler095) | | | |
-| [096](https://www.hackerrank.com/contests/projecteuler/challenges/euler096) | | | |
+| [096](https://www.hackerrank.com/contests/projecteuler/challenges/euler096) | [![image](../img/GH.png)](../76-100/096.c) [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler096/submissions/code/56193892) (100 pts) [![image](../img/AC.png)](#) | | |
 | [097](https://www.hackerrank.com/contests/projecteuler/challenges/euler097) | | | |
 | [098](https://www.hackerrank.com/contests/projecteuler/challenges/euler098) | | | |
 | [099](https://www.hackerrank.com/contests/projecteuler/challenges/euler099) | | | |
