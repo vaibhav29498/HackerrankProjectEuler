@@ -1,3 +1,7 @@
+/*
+** By https://www.hackerrank.com/Reimua
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -68,7 +72,6 @@ int		exist_on_block(char map[map_size][map_size + 2], const int pos_x, const int
 ** The following could be improved by changing
 ** the order of completion instead of going
 ** from 0 to map_size².
-**
 */
 
 int 	resolve_sudoku(char map[map_size][map_size + 2], const int pos)
