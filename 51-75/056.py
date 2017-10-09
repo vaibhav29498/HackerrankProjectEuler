@@ -1,3 +1,5 @@
+#made by Flavian Feugueur <flavian.feugueur@epitech.eu>
+
 def sumdigits(nb):
     nb = str(nb)
     i = 0
