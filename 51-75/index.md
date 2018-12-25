@@ -20,7 +20,7 @@
 | [064](https://www.hackerrank.com/contests/projecteuler/challenges/euler064) | | | |
 | [065](https://www.hackerrank.com/contests/projecteuler/challenges/euler065) | | | |
 | [066](https://www.hackerrank.com/contests/projecteuler/challenges/euler066) | | | |
-| [067](https://www.hackerrank.com/contests/projecteuler/challenges/euler067) | | | |
+| [067](https://www.hackerrank.com/contests/projecteuler/challenges/euler067) | | | [![image](../img/GH.png)](../51-75/67.py)  [![image](../img/HR.png)]([![image](../img/GH.png)](../51-75/052.py)  [![image](../img/HR.png)](https://www.hackerrank.com/contests/projecteuler/challenges/euler052/submissions/code/1300608519) (100 pts) [![image](../img/AC.png)](#) |) (100 pts) [![image](../img/AC.png)](#) ||
 | [068](https://www.hackerrank.com/contests/projecteuler/challenges/euler068) | | | |
 | [069](https://www.hackerrank.com/contests/projecteuler/challenges/euler069) | | | |
 | [070](https://www.hackerrank.com/contests/projecteuler/challenges/euler070) | | | |
